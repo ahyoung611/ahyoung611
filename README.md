@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
   <br/><br/>
 
-  ## 📌 Projects  
+  ## ㅍ Projects  
   - 🎯 **1**: 1
   - 📝 **2**: 2
   - 📊 **3**: 3
