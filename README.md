@@ -1,5 +1,5 @@
   <!--Header-->
-![header](https://capsule-render.vercel.app/api?type=waving&color=5E53A6&height=300&section=header&text=Ahyoung's&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=CAB8FF,D6C5F0,E1C6F1&height=300&section=header&text=Ahyoung's&fontColor=4A326B)
   
 </div>
 
