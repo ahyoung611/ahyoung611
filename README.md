@@ -7,9 +7,9 @@
   <!--Body-->
   
   ## 🦊 About Me
-  #### :raising_hand: I am a Cloud Engineer from South Korea.<br/>
-  #### :fire: I aim to become a Cloud AI Engineer.<br/>
-  #### :idea: Bachelor of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
+  #### 💁🏻‍♀️ 안녕하세요, 저는 **열정과 끈기**로 성장하는 풀스택 개발자 김아영입니다.<br/>
+  #### 🚀 최신 기술을 빠르게 습득하고, 문제 해결 능력을 키우며 실무에 바로 적용하는 것을 목표로 하고 있습니다.<br/>
+  #### 💡 매일 작은 커밋처럼 한 걸음씩 성장하며, 도전과 배움을 멈추지 않는 개발자입니다.
   <br/>
   <br/>
   
