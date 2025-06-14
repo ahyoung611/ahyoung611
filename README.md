@@ -10,7 +10,7 @@
   #### 💁🏻‍♀️ 안녕하세요, 저는 **열정과 끈기**로 성장하는 풀스택 개발자 김아영입니다.<br/>
   #### 🚀 최신 기술을 빠르게 습득하고, 문제 해결 능력을 키우며 실무에 바로 적용하는 것을 목표로 하고 있습니다.<br/>
   #### 💡 매일 한 줄의 코드가 쌓여 큰 변화를 만든다고 믿으며, 꾸준히 도전하고 성장하는 개발자입니다.<br/>
-  #### 🌏 사용자를 위한 직관적인 UI와 안정적인 백엔드 구조를 함께 고민합니다.
+  #### 📈 매일 조금씩 나아가며 `a0`라는 이름 아래 저만의 버전을 계속 버전업 중입니다.
   <br/>
 
   ## 💻 Tech Stack  
@@ -44,12 +44,14 @@
   - 📝 **회원가입/로그인 시스템**: form, validation, 상태관리 실습 포함  
   - 📊 **문화생활 추천 웹앱**: Bootstrap 기반 반응형 UI + localStorage 활용
 
+## 🧭 Career Goal  
+#### :mag_right: **"사용자 중심의 개발과 서비스 완성도에 집중하는 풀스택 개발자"**  
+#### :seedling: 끊임없이 학습하고 다양한 프로젝트에 도전하며, 기술과 사람 사이의 가치를 연결하고 싶습니다.
+<br/>
+
   ## 📈 GitHub Stats  
   ![Ahyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-id&show_icons=true&theme=tokyonight)
 
-  ## 🗓️ Currently Learning  
-  - ☁️ AWS 기반 서비스 배포
-  - 🧠 React 상태관리 고급 패턴 (Redux 등)
-  - 🔐 인증/인가 및 보안 처리 (JWT, OAuth)
+
   <br/><br/>
 </div>
