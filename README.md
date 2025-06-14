@@ -1,6 +1,5 @@
   <!--Header-->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6B00DF&height=300&section=header&text=%E2%9C%A6%20Ahyoung%27s%20Code%20%E2%9C%A6&fontColor=ffffff&fontSize=40&animation=fadeIn" style="margin-top:-50px;" alt="header" />
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=6B00DF&height=300&section=header&text=%E2%9C%A6%20Ahyoung%27s%20Code%20%E2%9C%A6&fontColor=ffffff&fontSize=40&animation=fadeIn)
 
 </div>
 
