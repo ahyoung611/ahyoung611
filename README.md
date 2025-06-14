@@ -13,7 +13,7 @@
   <br/>
   <br/>
   
-## 🧱 Tech Stack
+## 💻 Tech Stack
 
 ### Language  
 <!--Python-->
