@@ -3,22 +3,22 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=e6e6fa&height=300&section=header&text=%E2%9C%A6%20Ahyoung's%20GitHub%20%E2%9C%A6&fontColor=5c469c&fontSize=44&animation=fadeIn" />
 </p>
 
-<!-- ✨ About Me -->
+<!-- About Me -->
 <section align="center">
-  <h2>✨ About Me</h2>
-  <p>💁🏻‍♀️ <strong>열정과 끈기</strong>로 성장하는 풀스택 개발자 김아영입니다.</p>
-  <p>🚀 최신 기술을 빠르게 익히고, 실무 적용을 목표로 다양한 기능을 구현해 왔습니다.</p>
-  <p>💡 매일 한 줄의 코드가 모여 큰 성장을 이룬다고 믿습니다.</p>
-  <p>👆🏻 <code>a0</code>라는 이름으로 나만의 버전을 꾸준히 업그레이드 중입니다.</p>
+  <h2>About Me</h2>
+  <p>- <strong>열정과 끈기</strong>로 성장하는 풀스택 개발자 김아영입니다.</p>
+  <p>- 최신 기술을 빠르게 익히고, 실무 적용을 목표로 다양한 기능을 구현해 왔습니다.</p>
+  <p>- 매일 한 줄의 코드가 모여 큰 성장을 이룬다고 믿습니다.</p>
+  <p>- a0이라는 이름으로 나만의 버전을 꾸준히 업그레이드 중입니다.</p>
 </section>
 
 <br/>
 
-<!-- 💻 Tech Stack -->
+<!-- Tech Stack -->
 <section align="center">
-  <h2>💻 Tech Stack</h2>
+  <h2 >Tech Stack</h2>
 
-  <h4>Languages</h4>
+  <h4 >- Languages -</h4>
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp;
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp;
@@ -27,19 +27,19 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   </p>
 
-  <h4>Frameworks</h4>
+  <h4>- Frameworks -</h4>
   <p>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>&nbsp;
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>&nbsp;
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
   </p>
 
-  <h4>Libraries</h4>
+  <h4>- Libraries -</h4>
   <p>
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
   </p>
 
-  <h4>Tools</h4>
+  <h4>- Tools -</h4>
   <p>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp;
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>&nbsp;
@@ -49,38 +49,36 @@
 
 <br/>
 
-<!-- 📂 Projects -->
+<!-- Projects -->
 <section align="center">
-  <h2>📂 Projects</h2>
-  <ul style="list-style: none; padding: 0;">
-    <li>🎨 <strong>감정 일기장</strong>: React를 활용한 감정 기반 일기 CRUD 애플리케이션</li>
-    <li>📅 <strong>일정 관리 앱</strong>: JavaScript + Bootstrap 기반 달력형 일정 등록 기능 구현</li>
-    <li>📚 <strong>문화생활 큐레이션 페이지</strong>: HTML/CSS로 제작한 반응형 콘텐츠 리스트 페이지</li>
-  </ul>
+  <h2>Projects</h2>
+  <p><strong>project1</strong>: project1 설명</p>
+  <p><strong>project2</strong>: project2 설명</p>
+  <p><strong>project3</strong>: project3 설명</p>
 </section>
 
 <br/>
 
-<!-- 🌟 Career Goal -->
+<!-- Career Goal -->
 <section align="center">
-  <h2>🌟 Career Goal</h2>
-  <p>🔍 <strong>사용자 중심의 개발과 서비스 완성도에 집중하는 풀스택 개발자</strong></p>
-  <p>🌱 다양한 프로젝트에 도전하며 기술과 사람을 연결하는 경험을 쌓고 있습니다.</p>
+  <h2>Career Goal</h2>
+  <p>- <strong>사용자 중심의 개발과 서비스 완성도에 집중하는 풀스택 개발자</strong></p>
+  <p>- 다양한 프로젝트에 도전하며 기술과 사람을 연결하는 경험을 쌓고 있습니다.</p>
 </section>
 
 <br/>
 
-<!-- 📈 GitHub Stats -->
+<!-- GitHub Stats -->
 <section align="center">
-  <h2>📈 GitHub Stats</h2>
+  <h2> GitHub Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=ay0ung&show_icons=true&title_color=5c469c&text_color=4c4c6d&icon_color=a084dc&bg_color=e6e6fa&border_color=cfc5f7"/>
 </section>
 
 <br/>
 
-<!-- 🧾 Tech Description -->
+<!-- Tech Description -->
 <section align="center">
-  <h2>🧾 Tech Description</h2>
+  <h2>Tech Description</h2>
 </section>
 
 <table align="center">
@@ -140,4 +138,4 @@
 
 <br/>
 
-<p align="center">🌸 Thank you for visiting my profile 🌸</p>
+<p align="center">💜 Thank you for visiting my profile 💜</p>
