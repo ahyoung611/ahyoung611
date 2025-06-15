@@ -1,6 +1,6 @@
 <!-- 🌸 Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=e6e6fa&height=300&section=header&text=%E2%9C%A6%20Ahyoung's%20GitHub%20%E2%9C%A6&fontColor=5c469c&fontSize=44&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=e6e6fa&height=300&section=header&text=✦%20Ahyoung's%20GitHub%20✦&fontColor=5c469c&fontSize=44&animation=fadeIn" />
 </p>
 
 <!-- About Me -->
